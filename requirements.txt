@@ -1,8 +1,0 @@
-import some modules like:
-import pipreqs
-import tkinter as tk
-import sqlite3
-from tkinter import *
-import tkinter.messagebox
-from PIL import Image,ImageTk
-from functools import partial
